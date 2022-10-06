@@ -1,0 +1,10 @@
+<keymap version="1" name="IntelliJ copy" parent="$default">
+  <action id="CodeCleanup">
+    <keyboard-shortcut first-keystroke="shift ctrl alt l" />
+  </action>
+  <action id="ReformatCode" />
+  <action id="ShowReformatFileDialog" />
+  <action id="SilentCodeCleanup">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+</keymap>

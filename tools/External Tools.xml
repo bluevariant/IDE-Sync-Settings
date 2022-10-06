@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Clang Format" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="clang-format" />
+      <option name="PARAMETERS" value="-i -style=file &quot;$FilePath$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ContentRoot$" />
+    </exec>
+  </tool>
+</toolSet>

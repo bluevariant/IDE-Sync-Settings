@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Unity project open" displayType="NONE" />
+  </component>
+</application>
