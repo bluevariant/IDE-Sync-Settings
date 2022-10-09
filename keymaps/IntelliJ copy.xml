@@ -4,7 +4,7 @@
   </action>
   <action id="ReformatCode" />
   <action id="ShowReformatFileDialog" />
-  <action id="SilentCodeCleanup">
+  <action id="Tool_External Tools_Clang Format">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
 </keymap>
